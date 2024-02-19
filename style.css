@@ -303,3 +303,136 @@ align-items: center;
 display: flex;
 margin-left: 123%;
 }
+@media (max-width: 768px){
+    .menu{
+        height: 74px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 97.51%;
+        }  
+    .background{
+        height: 367.57px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        } 
+    .img_block{
+        position: absolute;
+        width: 766px;
+        height: 303.04px;
+        left: 100px;
+        right: 16px;
+        top: 65px;
+        bottom: 2165.96px;
+        align-items: center;
+        }
+    .all{
+        height: 1024px;
+        top: 120%;
+        left: 16px;
+        }
+    .menu_img{
+        height: 38px;
+        left: 4.17%;
+        right: 81.38%;
+        top: 3%;
+        bottom: 98.12%; 
+        }
+    .menu_but{
+        width: 169px;
+        height: 37px;
+        left: 100%;
+        right: 4.17%;
+        top: 3%;
+        bottom: 98.12%;
+        }
+    .img_back1{
+        width: 386px;
+        height: 368px;
+        left: 0;
+        right: 382px;
+        top: 100%;
+        bottom: 2534px;
+        }
+    .img_back2{
+        width: 311px;
+        height: 92px;
+        left: 77.34%;
+        right: 4.17%;
+        top: 25%;
+        bottom: 89.77%;
+        }   
+    .women{
+        position: absolute;
+        width: 232.33px;
+        height: 167.62px;
+        left: 16px;
+        right: 487.67px;
+        top: 507px;
+        bottom: -371.57px;
+    }
+    .men{
+        position: absolute;
+        width: 232.04px;
+        height: 167.62px;
+        left: 268.23px;
+        right: 235.72px;
+        top: 507px;
+        bottom: -371.57px;
+    }
+    .kid{
+    position: absolute;
+    width: 232.89px;
+    height: 167px;
+    left: 519.11px;
+    right: -16px;
+    top: 507px;
+    bottom: -370.96px;
+    }
+    .acces{
+    position: absolute;
+    width: 734.58px;
+    height: 116.09px;
+    left: 16.36px;
+    right: -14.94px;
+    top: 693.96px;
+    bottom: -507px;
+    }
+    .prod_h3{
+        position: relative;
+        width: 182px;
+        height: 36px;
+        left: -10%;
+        right: 38.55%;
+        top: 30.91%;
+        bottom: 57.88%;
+    }
+    .products{
+        position: absolute;
+        display: grid;
+        grid-template-columns:1fr 1fr;
+        grid-template-rows:1fr 1fr 1fr;
+        column-gap: 27px;
+        padding-left: 100px;
+        }
+    .cards0{
+        display: flex;
+        padding-left: 0px;
+        align-items: center;
+        justify-content: flex-start;
+        margin-left: 0%;
+    }
+    .btn_all{
+        margin-left: 78%; 
+    }
+    .prod_p{
+        position: relative;
+        width: 336px;
+        height: 17px;
+        left: -10%;
+        right: 28.17%;
+        top: 32.23%;
+        bottom: 67.2%;
+        }
+}
