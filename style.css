@@ -86,16 +86,9 @@ right: 331px;
 top: 364.9px;
 bottom: 2467px;
 }
-.img_block{
-position: absolute;
-width: 1140px;
-height: 470px;
-left: 230px;
-right: 230px;
-top: 904px;
-bottom: 1551px;
-}
+
 .women{
+position: absolute;
 width: 360px;
 height: 260px;
 left: 230px;
@@ -105,6 +98,7 @@ bottom: -694px;
 padding-right: 26px;
 }
 .men{
+position: absolute;
 width: 360px;
 height: 260px;
 left: 620px;
@@ -114,6 +108,7 @@ bottom: -694px;
 padding-right: 26px;
 }
 .kid{
+position: absolute;
 width: 360px;
 height: 260px;
 left: 1010px;
@@ -122,6 +117,7 @@ top: 904px;
 bottom: -694px;
 }
 .acces{
+position: absolute;
 width: 1140px;
 height: 180px;
 left: 230px;
@@ -218,7 +214,7 @@ width: 1140px;
 height: 1395px;
 left: 230px;
 right: 230px;
-top: 1470px;
+top: 1570px;
 bottom: 60px;
 }
 .cards0{
@@ -337,7 +333,7 @@ margin-left: 123%;
         }
     .all{
         height: 1024px;
-        top: 120%;
+        top: 160%;
         left: 16px;
         }
     .menu_img{
@@ -375,7 +371,7 @@ margin-left: 123%;
         position: absolute;
         width: 232.33px;
         height: 167.62px;
-        left: 16px;
+        left: 100px;
         right: 487.67px;
         top: 507px;
         bottom: -371.57px;
@@ -384,7 +380,7 @@ margin-left: 123%;
         position: absolute;
         width: 232.04px;
         height: 167.62px;
-        left: 268.23px;
+        left: 352.23px;
         right: 235.72px;
         top: 507px;
         bottom: -371.57px;
@@ -393,7 +389,7 @@ margin-left: 123%;
     position: absolute;
     width: 232.89px;
     height: 167px;
-    left: 519.11px;
+    left: 603.11px;
     right: -16px;
     top: 507px;
     bottom: -370.96px;
@@ -402,7 +398,7 @@ margin-left: 123%;
     position: absolute;
     width: 734.58px;
     height: 116.09px;
-    left: 16.36px;
+    left: 100.36px;
     right: -14.94px;
     top: 693.96px;
     bottom: -507px;
