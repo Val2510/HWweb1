@@ -11,6 +11,7 @@ top: 0%;
 bottom: 97.44%;
 background-color: black;
 }
+
 .menu_img{
     position: absolute;
     width: 111px;
@@ -49,7 +50,13 @@ right: -4150%;
 top: 89.66%;
 bottom: -89.66%;
 }
-.btn{
+.btn1{
+    background-color: black;
+}
+.btn2{
+    background-color: black;
+}
+.btn3{
     background-color: black;
 }
 .background{
@@ -303,6 +310,7 @@ align-items: center;
 display: flex;
 margin-left: 123%;
 }
+
 @media (max-width: 768px){
     .menu{
         height: 74px;
@@ -436,3 +444,4 @@ margin-left: 123%;
         bottom: 67.2%;
         }
 }
+

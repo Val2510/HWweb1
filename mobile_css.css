@@ -1,0 +1,141 @@
+@media (max-width: 320px){
+
+    .menu{
+        width: 375px;
+        height: 74px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 98.62%;
+        }  
+    .menu_img{
+        position: absolute;
+        width: 111px;
+        height: 38px;
+        left: 4.27%;
+        right: 66.13%;
+        top: 0.34%;
+        bottom: 98.96%; 
+        margin-top: 7%;
+        }
+    .but_menu1{
+        width: 32px;
+        height: 23px;
+        left: 87.2%;
+        right: 4.27%;
+        top: 2.47%;
+        bottom: 99.11%;
+        align-items: center;
+        margin-top: 20%;
+        }
+    .but_menu2{
+        opacity: 0;
+    }
+    .but_menu3{
+        opacity: 0;
+    }
+    .btn1{
+        margin-top: 3%;
+        background-color: black;
+    }
+    .btn2{
+        opacity: 0;
+    }
+    .btn3{
+        opacity: 0;
+    }
+    .background{
+        width: 375px;
+        height: 363px;
+        left: 0%;
+        right: 0%;
+        top: 1.38%;
+        bottom: 91.86%;
+        } 
+    .img_back1{
+        opacity: 0;
+        }
+    .img_back2{
+        display: flex;
+        justify-content: flex-start;
+        margin-left: -200px;
+        margin-top: 0px;
+        }
+
+    .women{
+        width: 343px;
+        height: 247px;
+        margin-left: 0px;
+        left: 5%;
+        right: 1.91%;
+        top: 100%;
+        bottom: 30.11%;
+    }
+    .men{
+        width: 344px;
+        height: 249px;
+        margin-bottom: 32px;
+        left: 5%;
+        right: 88.87px;
+        top: 150%;
+        bottom: 76.62px;
+    }
+    .kid{
+        width: 343px;
+        height: 248px;
+        margin-bottom: 32px;
+        left: 5%;
+        right: 2.96%;
+        top: 200%;
+        bottom: 45.15%;
+    }
+    .acces{
+        width: 343.26px;
+        height: 111px;
+        left: 5%;
+        right: -4.66%;
+        top: 250%;
+        bottom: -250%;
+    }
+    .all{
+        position: absolute;
+        width: 359px;
+        left: 2.23%;
+        right: -2.23%;
+        top: 282.22%;
+        bottom: -282.05%;
+    }
+    .prod_h3{
+        width: 182px;
+        height: 36px;
+        left: 0%;
+        right: 25%;
+        top: 28.25%;
+        bottom: 71.08%;
+        font-size: 30px;
+        font-weight: 400;
+    }
+    .prod_p{
+        width: 336px;
+        height: 17px;
+        left: 6.67%;
+        right: 3.73%;
+        top: 28.98%;
+        bottom: 70.7%;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .products{
+        display: grid;
+        grid-template-columns:1fr;
+        grid-template-rows:1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        column-gap: 27px;
+        padding-left: 10px;
+    }
+    .btn_all{
+        margin-left: 19%; 
+    }
+    .img_back2{
+        top: 40%;
+    }
+}
