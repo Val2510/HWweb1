@@ -1,7 +1,6 @@
 @media (max-width: 320px){
 
     .menu{
-        width: 375px;
         height: 74px;
         left: 0%;
         right: 0%;
@@ -12,7 +11,7 @@
         position: absolute;
         width: 111px;
         height: 38px;
-        left: 4.27%;
+        left: 7.27%;
         right: 66.13%;
         top: 0.34%;
         bottom: 98.96%; 
@@ -21,7 +20,7 @@
     .but_menu1{
         width: 32px;
         height: 23px;
-        left: 87.2%;
+        left: 97.2%;
         right: 4.27%;
         top: 2.47%;
         bottom: 99.11%;
@@ -34,6 +33,9 @@
     .but_menu3{
         opacity: 0;
     }
+    .menu_but{
+        padding-left: 300px;
+    }
     .btn1{
         margin-top: 3%;
         background-color: black;
@@ -45,7 +47,6 @@
         opacity: 0;
     }
     .background{
-        width: 375px;
         height: 363px;
         left: 0%;
         right: 0%;
@@ -58,14 +59,14 @@
     .img_back2{
         display: flex;
         justify-content: flex-start;
-        margin-left: -200px;
+        margin-left: 0px;
         margin-top: 0px;
         }
 
     .women{
         width: 343px;
         height: 247px;
-        margin-left: 0px;
+        margin-left: 200px;
         left: 5%;
         right: 1.91%;
         top: 100%;
@@ -75,6 +76,7 @@
         width: 344px;
         height: 249px;
         margin-bottom: 32px;
+        margin-left: 200px;
         left: 5%;
         right: 88.87px;
         top: 150%;
@@ -84,6 +86,7 @@
         width: 343px;
         height: 248px;
         margin-bottom: 32px;
+        margin-left: 200px;
         left: 5%;
         right: 2.96%;
         top: 200%;
@@ -92,6 +95,7 @@
     .acces{
         width: 343.26px;
         height: 111px;
+        margin-left: 200px;
         left: 5%;
         right: -4.66%;
         top: 250%;
@@ -99,7 +103,6 @@
     }
     .all{
         position: absolute;
-        width: 359px;
         left: 2.23%;
         right: -2.23%;
         top: 282.22%;
@@ -114,6 +117,7 @@
         bottom: 71.08%;
         font-size: 30px;
         font-weight: 400;
+        margin-left: -350px;
     }
     .prod_p{
         width: 336px;
@@ -124,6 +128,7 @@
         bottom: 70.7%;
         font-size: 14px;
         font-weight: 400;
+        margin-left: -500px;
     }
     .products{
         display: grid;
@@ -132,10 +137,47 @@
         column-gap: 27px;
         padding-left: 10px;
     }
+    .cards1{
+        margin-left: 200px;
+    }
+    .cards2{
+        margin-left: 200px;
+    }
+    .cards3{
+        margin-left: 200px;
+    }
+    .cards4{
+        margin-left: 200px;
+    }
+    .cards5{
+        margin-left: 200px;
+    }
+    .cards6{
+        margin-left: 200px;
+    }
     .btn_all{
-        margin-left: 19%; 
+        margin-left: 260px; 
     }
     .img_back2{
         top: 40%;
+    }
+    .foot{
+        top: 1020%;
+        padding-top: 100px;
+        padding-left: 200px;
+    }
+    .down{
+        top:1150%;
+        padding-left: 200px;
+    }
+    .end{
+        top:1235%;
+    }
+    
+    .img_end2{
+        margin-left: 290px;
+    }
+    .dropdown{
+        width: 200px;
     }
 }
