@@ -180,4 +180,7 @@
     .dropdown{
         width: 200px;
     }
+    .card-none{
+        display: none;
+    }
 }
